@@ -5,4 +5,6 @@ echo "Bonjour! C'est le projet GIT!";
 
 /* modif 2 */
 
+/* Un modif dans mon fichier index */
+
 ?>
